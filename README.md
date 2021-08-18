@@ -15,5 +15,4 @@ Uma sala de bate papo criada em Node Js e Socket.io
 * socket.io: ^4.1.3
 
 # See in action
-
-https://chat-aplication-with-node-js.herokuapp.com/
+<a href="https://chat-aplication-with-node-js.herokuapp.com/" target="_blank">Chat App</a>
