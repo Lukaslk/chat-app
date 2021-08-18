@@ -4,7 +4,7 @@
 
 Uma sala de bate papo criada em Node Js e Socket.io
 
-![Join](https://github.com/Lukaslk/chat-app/blob/main/join.png) 
+![Join](https://github.com/Lukaslk/chat-app/tree/main/join.png) 
 
 # Packages
 
